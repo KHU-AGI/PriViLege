@@ -1,6 +1,7 @@
 import os
 import sys
-seeds = [1,2,3,4,5]
+# seeds = [1,2,3,4,5]
+seeds = [1]
 
 project = 'base'
 # dataset = 'mini_imagenet'
