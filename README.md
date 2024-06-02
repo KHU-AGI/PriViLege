@@ -1,6 +1,6 @@
 # [CVPR 2024] PriViLege: Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners
 
-Official PyTorch implementation for CVPR 2024 paper:
+Official PyTorch implementation of PriViLege accepted by CVPR 2024: [Paper](https://arxiv.org/abs/2404.02117)
 
 **PriViLege: Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners**  
 Keon-Hee Park*, Kyungwoo Song<sup>$\dagger$</sup> , and Gyeong-Moon Park<sup>$\dagger$</sup> 
