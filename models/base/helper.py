@@ -6,7 +6,6 @@ import time
 
 from .ViT_Network import ViT_MYNET
 
-from .ViT_Network_CLIP import ViT_MYNET_CLIP
 from utils import *
 from tqdm import tqdm
 import torch.nn.functional as F

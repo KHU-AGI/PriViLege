@@ -21,10 +21,7 @@ class ViT_FSCILTrainer(Trainer):
         self.set_log_path()
 
         self.args = set_up_datasets(self.args)
-        if self.args.pret_clip:
-            self.model = ViT_MYNET_CLIP(self.args, mode=self.args.base_mode)
-        else:
-            self.model = ViT_MYNET(self.args, mode=self.args.base_mode)
+        self.model = ViT_MYNET(self.args, mode=self.args.base_mode)
         
         if self.args.LT:
             print("Tuning Layer!!")
