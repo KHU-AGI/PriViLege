@@ -90,7 +90,10 @@ def get_command_line_parser():
     # parser.add_argument('-scratch', action='store_true')
     parser.add_argument('-scratch', action='store_true')
     parser.add_argument('-taskblock', type=int, default=2)
-
+    parser.add_argument('-ft', action='store_true')
+    parser.add_argument('-lp', action='store_true')
+    parser.add_argument('-PKT_tune_way', type=int, default=1)
+    
     return parser
 
 
