@@ -1,6 +1,7 @@
 # [CVPR 2024] PriViLege: Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners
 
 Official PyTorch implementation of PriViLege accepted by CVPR 2024: [Paper](https://arxiv.org/abs/2404.02117)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pre-trained-vision-and-language-transformers/few-shot-class-incremental-learning-on-cifar)](https://paperswithcode.com/sota/few-shot-class-incremental-learning-on-cifar?p=pre-trained-vision-and-language-transformers)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pre-trained-vision-and-language-transformers/few-shot-class-incremental-learning-on-cub)](https://paperswithcode.com/sota/few-shot-class-incremental-learning-on-cub?p=pre-trained-vision-and-language-transformers)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pre-trained-vision-and-language-transformers/few-shot-class-incremental-learning-on-mini)](https://paperswithcode.com/sota/few-shot-class-incremental-learning-on-mini?p=pre-trained-vision-and-language-transformers)
